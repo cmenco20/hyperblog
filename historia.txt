@@ -4,3 +4,9 @@ Nombre: CMenco20
 Estudios: Ingeria de sistemas
 Dirección: Monteria
 Cargo: Director de proyecto
+
+
+Nombre: CMenPer20
+Estudios: Ingeria de sistemas
+Dirección: Monteria - Cordoba
+Cargo: Analista 1 - Colaborador
