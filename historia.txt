@@ -1,10 +1,17 @@
 Historia Carlos Menco
 
+
+Colaboradores para Header
+
 Nombre: CMenco20
 Estudios: Ingeria de sistemas
 Dirección: Monteria
 Cargo: Director de proyecto
 
+Nombre: cmencofs
+
+
+Colaboradores para el Footer
 
 Nombre: CMenPer20
 Estudios: Ingeria de sistemas
