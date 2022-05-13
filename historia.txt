@@ -9,7 +9,7 @@ Dirección: Monteria
 Cargo: Director de proyecto
 
 Nombre: cmencofs
-
+Agrego datos de colaborador
 
 Colaboradores para el Footer
 
